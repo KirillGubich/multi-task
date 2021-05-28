@@ -17,6 +17,5 @@ dependencies {
 }
 
 application {
-    // Define the main class for the application.
     mainClass = 'com.epam.lab.util.app.App'
 }
